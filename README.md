@@ -1,4 +1,7 @@
 # Turtle WoW Launcher
+
+**NOTE:** **THE PROJECT'S DEVELOPEMENT IS CURRENTLY PAUSED DUE TO THE LACK OF SUPPORT IT GOT FROM STAFF!**
+
 This project is made for Turtle WoW Private Server.
 It is a World of Warcraft launcher application with some built-in quality of life features.
 
